@@ -1,0 +1,11 @@
+# Ignore large ROM archives
+*.zip
+*.tgz
+
+# Ignore raw partition images (they exceed GitHub's 100MB limit)
+*.img
+rom_images/
+
+# Ignore extracted ROM folders and binaries
+Project_Infinity-X-3.10-spes-30.05.2026-GAPPS-OFFICIAL(1)/
+payload-dumper-go/
