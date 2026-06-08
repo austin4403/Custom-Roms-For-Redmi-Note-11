@@ -34,12 +34,21 @@ We categorize custom ROMs for `spes` based on their philosophy and system footpr
 * **Pros:** Advanced UI customization, unlimited Google Photos backup spoofing, built-in gaming modes, and system tweaks.
 * **Cons:** Larger system footprint, slightly higher idle battery usage, potential for minor community bugs.
 * **Best For:** Users who want a Pixel-like experience packed with customization.
+* **Download Portals:**
+  * [Project Infinity-X Website](https://infinity-x.org/) / [Official spes Telegram Channel](https://t.me/InfinityXSpes)
 
 ### ⚡ Clean & Lightweight ROMs (e.g., crDroid, LineageOS)
 * **Google Services:** Vanilla (no GApps pre-installed). Recommended to pair with a minimal GApps package like *MindTheGApps* or *NikGApps Core*.
 * **Pros:** Extreme performance, minimal RAM usage, exceptional battery life, long-term stability.
 * **Cons:** Minimal default UI customization.
 * **Best For:** Daily drivers who value reliability, speed, and privacy above all.
+* **Download Portals:**
+  * [crDroid Official spes Page](https://crdroid.net/spes)
+  * [MindTheGApps Official Downloads](https://androidfilehost.com/?w=files&flid=322935) (For Google Services)
+
+### 🛠️ Root & Firmware Tools
+* **Rooting:** [Official Magisk GitHub Releases](https://github.com/topjohnwu/Magisk/releases)
+* **Stock ROMs:** [Xiaomi Firmware Updater (spes/spesn)](https://xiaomifirmwareupdater.com/miui/spes/) (To download stock Fastboot `.tgz` files to recover or extract stock boot images).
 
 ---
 
