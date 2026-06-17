@@ -12,6 +12,13 @@ Welcome! This repository serves as a comprehensive collection of installation gu
 
 ---
 
+## 📂 Repository Structure
+* **`assets/`**: Categorized binary files (OS images, software zips, APKs, scripts, and configs).
+* **`Camera_GCam/`**: Google Camera app and configuration files for optimized photography.
+* **`*_OS/`**: Extracted files for specific custom ROMs.
+
+---
+
 ## 🗺️ Documentation Portal
 
 Use the links below to navigate the guides and reference documents:
