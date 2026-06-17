@@ -61,3 +61,12 @@ When recovery finishes sideloading the ZIP, it installs the ROM to the **opposit
    ```bash
    fastboot reboot
    ```
+
+---
+
+## Step 4: Post-Install Setup (GCam)
+The stock AOSP camera that comes with most custom ROMs will not take full advantage of your hardware. Installing Google Camera (GCam) is a **mandatory** step for taking high-quality photos.
+
+Once your phone boots into Android and you finish the initial setup:
+1. Enable USB Debugging in Developer Options.
+2. Follow the [**GCam Installation Guide**](gcam_install.md) to push the configuration files over ADB and install the camera.
