@@ -22,6 +22,7 @@ Use the links below to navigate the guides and reference documents:
 | ⚡ [**Flashing & Install Guide**](flashing_guide.md) | Standard recovery flashing, ROM sideloading, and slot alignment. |
 | 🛠️ [**Troubleshooting Index**](troubleshooting.md) | Fixes for vbmeta errors, boot loops, and recovery warnings. |
 | 🔓 [**Magisk Rooting Guide**](magisk_root.md) | Step-by-step walkthrough for flashing and setting up Magisk root. |
+| 📸 [**GCam Installation Guide**](gcam_install.md) | Get the best camera experience using Google Camera ports. |
 
 ---
 

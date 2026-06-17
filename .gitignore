@@ -9,3 +9,6 @@ rom_images/
 # Ignore extracted ROM folders and binaries
 Project_Infinity-X-3.10-spes-30.05.2026-GAPPS-OFFICIAL(1)/
 payload-dumper-go/
+
+# Ignore large APK files
+*.apk
