@@ -50,3 +50,6 @@ Follow these steps to flash crDroid or any other custom ROM on your Redmi Note 1
    - After sideloading is complete, go back to the main menu in recovery.
    - Select **Factory Reset -> Format data/factory reset**.
    - Reboot to system.
+
+5. **Post-Installation App Setup:**
+   - Always ask if additional apps (like MicroG, Aurora Store, Magisk, or GCam) need to be installed or pushed to the device once the OS has fully booted and USB debugging is enabled.

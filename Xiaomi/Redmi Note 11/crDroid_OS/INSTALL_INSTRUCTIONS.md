@@ -65,4 +65,7 @@ Because the ROM installed to the *opposite* slot, you must flash the boot images
    fastboot reboot
    ```
 
+### Step 7: Post-Installation
+Always ask if additional apps (like MicroG, Aurora Store, Magisk, or GCam) need to be installed or pushed to the device once the OS has fully booted and USB debugging is enabled.
+
 You are now done! Enjoy crDroid!
