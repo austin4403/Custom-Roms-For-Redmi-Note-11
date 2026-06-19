@@ -1,0 +1,18 @@
+CRC-LIST
+md1img_a 0xea750ffa
+vendor_boot_a 0xa06255a2
+mcupm_a 0x9f0dff62
+dtbo_a 0x7bb5d3ad
+spmfw_a 0x8e089ba3
+pi_img_a 0x70167ef0
+boot_a 0x5a8be362
+lk_a 0x9ff62478
+vbmeta_vendor_a 0x7219328e
+vbmeta_a 0x7bfcfce8
+scp_a 0x79f27234
+gz_a 0xb8273e7c
+dpm_a 0x86f1d21a
+sspm_a 0xf2e2ba78
+tee_a 0x83e85fb3
+vbmeta_system_a 0xceaecb83
+logo_a 0xca9b3bd9

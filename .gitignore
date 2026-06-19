@@ -12,3 +12,4 @@ payload-dumper-go/
 
 # Ignore large APK files
 *.apk
+*.part

@@ -1,0 +1,28 @@
+# Build Fields
+MANUFACTURER=Asus
+MODEL=ASUS_I006D
+FINGERPRINT=asus/WW_I006D/ASUS_I006D:11/RKQ1.201022.002/30.11.51.67:user/release-keys
+BRAND=asus
+PRODUCT=WW_I006D
+DEVICE=ASUS_I006D
+RELEASE=11
+ID=RKQ1.201022.002
+INCREMENTAL=30.11.51.67
+TYPE=user
+TAGS=release-keys
+SECURITY_PATCH=2021-04-05
+DEVICE_INITIAL_SDK_INT=30
+
+# System Properties
+*.build.id=RKQ1.201022.002
+*.security_patch=2021-04-05
+*api_level=30
+
+# Advanced Settings
+spoofBuild=1
+spoofProps=1
+spoofProvider=0
+spoofSignature=0
+spoofVendingFinger=0
+spoofVendingSdk=0
+verboseLogs=0

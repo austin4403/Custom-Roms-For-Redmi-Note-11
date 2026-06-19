@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: META-INF/debug/fox_build_vars.txt
+SHA1-Digest: xGlnPFz1sMdDSc8QonZUgUaTVIY=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: ZPge0h9ScEvE7ko7WPpMOGQ+Jy0=
+
+Name: sdcard/Fox/FoxFiles/uninstall.zip
+SHA1-Digest: 0FKw4cGoPLJXOeuHRxum2HkfS1o=
+
+Name: META-INF/debug/default.prop
+SHA1-Digest: N/8e+5E7MVTypjtQBv2QRbv92gg=
+
+Name: INSTALL.txt
+SHA1-Digest: VcAZ2GZeE8UciOyUN+jEhp13RG8=
+
+Name: sdcard/Fox/fox.bashrc
+SHA1-Digest: nYkpjLvP6ZuVev07E7+Qz+Kq8+4=
+
+Name: magiskboot
+SHA1-Digest: dhiv5X0sRNMgvVECKgHZ2RKYZfE=
+
+Name: recovery.img
+SHA1-Digest: z9sCpBCNuCP8zivoBIcGLfoX9h4=
+
+Name: sdcard/Fox/FoxFiles/Magisk.zip
+SHA1-Digest: 0FKw4cGoPLJXOeuHRxum2HkfS1o=
+

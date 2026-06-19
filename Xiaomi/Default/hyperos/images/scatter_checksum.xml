@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<scatter>
+	<version>1.0</version>
+	<images>
+		<file name="preloader_tanzanite.bin" chk_method="ADD" checksum="0x91c90e8f"/>
+		<file name="preloader_tanzanite.bin" chk_method="ADD" checksum="0x91c90e8f"/>
+		<file name="vbmeta.img" chk_method="ADD" checksum="0xa7cbee2f"/>
+		<file name="vbmeta_system.img" chk_method="ADD" checksum="0xdaf99782"/>
+		<file name="vbmeta_vendor.img" chk_method="ADD" checksum="0x4f0de09"/>
+		<file name="md1img.img" chk_method="ADD" checksum="0x9c468bf3"/>
+		<file name="spmfw.img" chk_method="ADD" checksum="0x76a5ce08"/>
+		<file name="pi_img.img" chk_method="ADD" checksum="0x62f99b23"/>
+		<file name="dpm.img" chk_method="ADD" checksum="0x407d059f"/>
+		<file name="scp.img" chk_method="ADD" checksum="0x38f8cb97"/>
+		<file name="sspm.img" chk_method="ADD" checksum="0x30ae44ca"/>
+		<file name="mcupm.img" chk_method="ADD" checksum="0x73587d06"/>
+		<file name="gz.img" chk_method="ADD" checksum="0x1cc51f28"/>
+		<file name="lk.img" chk_method="ADD" checksum="0x1991bc3b"/>
+		<file name="boot.img" chk_method="ADD" checksum="0x1b954751"/>
+		<file name="vendor_boot.img" chk_method="ADD" checksum="0x74b3fc3a"/>
+		<file name="dtbo.img" chk_method="ADD" checksum="0x3551ee85"/>
+		<file name="tee.img" chk_method="ADD" checksum="0xffaa3671"/>
+		<file name="logo.bin" chk_method="ADD" checksum="0x109a3a81"/>
+		<file name="efuse.img" chk_method="ADD" checksum="0x694907b7"/>
+		<file name="logo.bin" chk_method="ADD" checksum="0x109a3a81"/>
+		<file name="rescue.img" chk_method="ADD" checksum="0x748eedf0"/>
+		<file name="super.img" chk_method="ADD" checksum="0xa06755c3"/>
+		<file name="userdata.img" chk_method="ADD" checksum="0xde9bbe67"/>
+	</images>
+</scatter>

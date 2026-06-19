@@ -1,0 +1,5 @@
+device=tanzanite
+build_number=OS2.0.4.0.VOGMIXM
+userdata_version=20250526.0000.00
+mi_os_build_version=OS2.0.4.0.VOGMIXM
+custom_bulid_number=tanzanite.mi.1.1.0170
