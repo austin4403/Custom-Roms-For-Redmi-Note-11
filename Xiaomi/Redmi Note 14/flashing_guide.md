@@ -24,10 +24,13 @@ Follow these steps to flash crDroid or any other custom ROM on your Redmi Note 1
    ```
 
 2. **Reboot into Recovery:**
-   After successfully flashing the `vendor_boot` partition, restart your device directly into the newly flashed recovery:
+   After successfully flashing the `vendor_boot` partition, restart your device directly into the newly flashed recovery using ONLY the following command:
    ```bash
    fastboot reboot
    ```
+   > [!WARNING]
+   > NEVER use the command `fastboot reboot recovery` on this device! This leads to a known bug that will BRICK your device. Only use `fastboot reboot`.
+
    *(Be sure to hold the Volume Up button during reboot if the device does not automatically boot into recovery mode).*
 
 3. **Sideload the ROM:**
