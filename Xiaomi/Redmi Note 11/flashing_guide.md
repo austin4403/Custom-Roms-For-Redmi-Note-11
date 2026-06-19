@@ -1,5 +1,8 @@
 # Custom ROM Flashing & Reinstallation Guide
 
+> [!IMPORTANT]
+> **For ALL NEW INSTALLATIONS:** You MUST always perform a Factory Reset and Format Data in recovery. Skipping this step will result in a bootloop.
+
 This guide details the procedure for doing a clean install of a custom ROM (such as Project Infinity-X or crDroid) on the Redmi Note 11 (`spes`).
 
 ---

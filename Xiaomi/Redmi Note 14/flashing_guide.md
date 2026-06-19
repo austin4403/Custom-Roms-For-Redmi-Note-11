@@ -1,5 +1,8 @@
 # Flashing Guide for Redmi Note 14 (Tanzanite)
 
+> [!IMPORTANT]
+> **For ALL NEW INSTALLATIONS:** You MUST always perform a Factory Reset and Format Data in recovery before or after sideloading the ROM. Skipping this step will result in a bootloop.
+
 Follow these steps to flash crDroid or any other custom ROM on your Redmi Note 14:
 
 ## Prerequisites

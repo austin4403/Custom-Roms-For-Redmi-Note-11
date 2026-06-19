@@ -1,5 +1,8 @@
 # crDroid 12.4 Installation Guide (Redmi Note 11 'spes')
 
+> [!IMPORTANT]
+> **For ALL NEW INSTALLATIONS:** You MUST always perform a Factory Reset and Format Data in recovery. Skipping this step will result in a bootloop.
+
 This folder contains all the necessary files to clean-flash crDroid 12.4 onto the Redmi Note 11 (spes). 
 Because this device uses a Virtual A/B partition scheme, the process involves extracting the boot files, flashing them to the active slot, sideloading the ROM, and then re-flashing the boot files to the newly active slot to ensure slot alignment.
 
